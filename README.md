@@ -1,4 +1,4 @@
-<h1 style="text-align: center">My Journal App</h1>
+<h1 align="center">My Journal App</h1>
 
 A personal coding progress tracking app and for documenting the learning and outcomes and necessary concepts during the course of programming.
 
